@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ## About App
 
-Demo Link: https://vue-socket-io-chat-app.vercel.app/
+Demo Link: https://react-socket-io-chat-app.vercel.app/
 
 This app uses:
 <ul>
